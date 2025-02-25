@@ -1,7 +1,10 @@
 # Compiled class file
 *.class
+<<<<<<< HEAD
 target
 target/*
+=======
+>>>>>>> bc12b0dca2b02d5717734f550a0ec5d0b0926063
 
 # Log file
 *.log
@@ -24,8 +27,11 @@ target/*
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 # ide
 *.iml
 *.classpath
 *.project
+=======
+>>>>>>> bc12b0dca2b02d5717734f550a0ec5d0b0926063
